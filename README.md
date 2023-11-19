@@ -1,6 +1,6 @@
 # UNAL EXTENSION (Is'nt Responsive)
 
-This is a University project made with the Django Framework that tries to representante the National University Extension module. This is the Databases final project.
+This is a University project built with the Django Framework that tries to representante the National University Extension module. This is the Databases final project.
 
 ## Tech Stack
 
